@@ -1,0 +1,5 @@
+# A new file in `main` branch
+New:
+   - file
+       +> commit changes directly to `main`  [choosen]
+       +> create new branch for this commit and strat a pull request 
