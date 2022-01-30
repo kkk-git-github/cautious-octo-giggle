@@ -1,0 +1,12 @@
+h2 {
+  color:aqua;
+  text-decoration-color:darkgoldenrod;
+  text-align: center;
+  text-decoration: dashed;
+}
+p {
+  color:olivedrab;
+  text-decoration: dashed;
+  text-align: justify;
+  text-decoration-color: crimson;
+}
