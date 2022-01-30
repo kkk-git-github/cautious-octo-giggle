@@ -1,0 +1,8 @@
+cautious-octo-giggle -> branches
+                           -> feature-new
+                                -> new file in new branch =/ this
+                           -> main
+                                 -> main README file
+                                 -?> change branch <?-
+                                           -> file.README.md = !new file in new branch =?> {main file} + (var !new file in new branch) 
+                                                                                               *branch*     + *{variants} branch*
